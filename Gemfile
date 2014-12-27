@@ -78,6 +78,8 @@ gem 'sinatra', require: false
 gem 'addressable'
 gem 'settingslogic'
 
+# JVector Maps
+gem 'jvectormap-rails', '~> 1.0.0'
 group :development do
   # Docs
   gem 'sdoc', require: false    # bundle exec rake doc:rails
