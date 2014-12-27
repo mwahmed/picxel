@@ -25,9 +25,14 @@
 // Minor Tweaks
 //
 
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
 // Padding to clear fixed nav
 body {
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 // Make sure alerts are nicely formatted
